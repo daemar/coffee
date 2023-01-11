@@ -7,5 +7,4 @@ Pequeña Aplicación con animación de distintos tipos de café, puede ejecutar 
 
 ### Coffee
 
-<img src="(assets/coffee/screen.gif" height="300" width="150" />
-![](assets/coffee/screen.gif)
+<img src="(assets/coffee/coffee.gif" height="300" width="150" />
